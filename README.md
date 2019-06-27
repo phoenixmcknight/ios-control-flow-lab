@@ -129,8 +129,9 @@ Given the first name and last name of a Fellow, declare `fullName` variable and 
 ```swift
 let firstName = "John"
 let lastName = "Appleseed"
+let fullName = "\(firstName) \(lastName)"
+print("The Fellow's full name is \(fullName)")
 
-print("The Fellow's full name is \(firstName) \(lastName)")
 
 
 ***
