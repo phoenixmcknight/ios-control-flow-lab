@@ -50,8 +50,8 @@ switch appInfo {
 }
 ```
 
-- appInfo.0 hasn't released yet √
-- myCoolApp hasn't released yet
+- appInfo.0 hasn't released yet 
+- myCoolApp hasn't released yet √
 - Thanks for looking at myCoolApp!
 - I'm not quite sure what you are looking at
 - It will give a compile-time error
